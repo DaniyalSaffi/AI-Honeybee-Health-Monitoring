@@ -23,7 +23,7 @@ An AI system for honeybee disease detection and beehive population analysis, bui
 - Department of Computer Science, Namal University Mianwali, Pakistan
 
 ## Poster
-The project poster from the university showcase is in this repository. It shows the earlier build, which used YOLO v5; the final report uses YOLOv8.
+The project poster from the university showcase is in this repository:
 
 ![FYP Poster](FYP-Poster.png)
 
